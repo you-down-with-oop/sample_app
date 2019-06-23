@@ -1,0 +1,5 @@
+{
+  message: "Hello",
+  raw_time: @raw_time,
+  time: @time,
+}
